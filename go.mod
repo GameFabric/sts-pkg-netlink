@@ -8,5 +8,5 @@ require (
 )
 
 replace (
-	github.com/vishvananda/netlink => github.com/SilverCode/netlink v1.2.1-beta.2
+	github.com/vishvananda/netlink => gitlab.com/nitrado-steelshield/go/netlink v1.2.1-beta.2
 )
